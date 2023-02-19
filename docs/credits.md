@@ -197,10 +197,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/thomasdissert">
-            <img src="https://avatars.githubusercontent.com/u/11446531?v=4" width="80;" alt="thomasdissert"/>
+        <a href="https://github.com/thomaswienecke">
+            <img src="https://avatars.githubusercontent.com/u/11446531?v=4" width="80;" alt="thomaswienecke"/>
             <br />
-            <sub><b>Thomas Dissert</b></sub>
+            <sub><b>Thomas Wienecke</b></sub>
         </a>
     </td>
     <td align="center">
